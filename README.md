@@ -33,3 +33,9 @@
 - cliquer sur new item
 - ecrire le nom du job
 - choisir le type de job
+
+## configuration users et rôle	 	 
+### ajout plugin : Role-based Authorization Strategy
+-	permet : 
+--	roles (groupes d'ensemble de users)
+--	users
