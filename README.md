@@ -36,6 +36,6 @@
 
 ## configuration users et rôle	 	 
 ### ajout plugin : Role-based Authorization Strategy
--	permet : 
---	roles (groupes d'ensemble de users)
---	users
++ permet : 
+++ 	roles (groupes d'ensemble de users)
+++	users
